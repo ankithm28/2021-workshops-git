@@ -13,7 +13,8 @@ You should set your name as a variable, and then print out how many letters
 that variable has.
  */
 fun level2() {
-    // Your code here
+    // Your code here'
+    "dsfjsldkfj"
 }
 
 /*

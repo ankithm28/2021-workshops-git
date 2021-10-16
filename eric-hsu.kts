@@ -23,9 +23,8 @@ letters.
 e.g. Entering "tHis iS a rANdoM meSSagE" should print out "HSANMSSE"
  */
 fun level3() {
-    val text = readLine()
-    //print(text?.filter{ it.isUpperCase()})
-    print(text?.map{if(it.isUpperCase()) it else ""}?.joinToString("","","")+"\n")
+    //print(readLine()?.filter{ it.isUpperCase()})
+    print(readLine()?.map{if(it.isUpperCase()) it else ""}?.joinToString("","","")+"\n")
 }
 
 
